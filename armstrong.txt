@@ -6,7 +6,8 @@ int main()
     scanf("%d", &num);
     originalNum = num;
 
-    while (originalNum != 0) {
+    while (originalNum != 0)
+ {
         rem = originalNum % 10;
         
        result += rem * rem * rem;
