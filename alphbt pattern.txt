@@ -9,7 +9,7 @@ int main()
         // second loop for printing alphabets in each rows
         for ( j = 0; j <= i; j++) 
         {
-            printf("%c ", 'A' + j);
+            printf("%c ", 'A' );
         }
         printf("\n");
     }
